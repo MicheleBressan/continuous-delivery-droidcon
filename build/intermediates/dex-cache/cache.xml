@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta5/constraint-layout-solver-1.0.0-beta5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0dad5e4fc720f478ce8b5f6edf76a932d9b886">
+        <dex dex="/Users/michelebressan/Projects Android/Droidcon/continuous-delivery-droidcon/2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta5_9b3a83269b9ea557b6e79a78b54afc352e751b13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michelebressan/Projects Android/Droidcon/continuous-delivery-droidcon/2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38e137d976adf868e79181b41eee756598cf7ae4">
+        <dex dex="/Users/michelebressan/Projects Android/Droidcon/continuous-delivery-droidcon/2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e85b9418da22df9e38da47f8c5987562c30111a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michelebressan/Projects Android/Droidcon/continuous-delivery-droidcon/2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/michelebressan/Projects Android/Droidcon/continuous-delivery-droidcon/2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a375c0946e12384d3afa720e15b03bce815d78ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michelebressan/.android/build-cache/a2d6ce0222d374558b4a189b7032990136f0b3db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce0f3de11781e1ee758cba483871b598c9d4931">
+        <dex dex="/Users/michelebressan/Projects Android/Droidcon/continuous-delivery-droidcon/2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb876a8ddb9c8befd21d2d61e70a828dffa857f7/classes.dex" />
+    </item>
+
+</items>
